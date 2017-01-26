@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/f3cl7slwdhpv573q?svg=true)](https://ci.appveyor.com/project/fpschultze/pscredentialfile)
+[![Build status](https://ci.appveyor.com/api/projects/status/3ub451xhfmrw33dx?svg=true)](https://ci.appveyor.com/project/fpschultze/pscredentialfile)
 
 # PSCredentialFile PowerShell Module
 Save credentials in and read credentials from a file, securely.
